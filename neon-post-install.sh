@@ -20,9 +20,7 @@ apt install pandoc -y
 apt install php -y
 apt install postgresql -y
 apt install rsync -y
-apt install samba -y
 apt install scribus -y
 apt install tesseract-ocr -y
 apt install tmux -y
-apt install ufw -y
 
